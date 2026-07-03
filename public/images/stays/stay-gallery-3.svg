@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title">
+  <title id="title">Galeria placeholder 3</title>
+  <rect width="1200" height="800" fill="#f5f3ef" />
+  <rect x="160" y="170" width="880" height="460" rx="36" fill="#fffdf9" />
+  <path d="M220 560 430 280l155 205 90-118 220 193Z" fill="#ca7b5a" />
+  <circle cx="860" cy="250" r="54" fill="#efcb73" />
+  <rect x="220" y="610" width="760" height="50" rx="16" fill="#d8dfcf" />
+</svg>

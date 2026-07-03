@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder de alojamiento</title>
+  <desc id="desc">Ilustracion simple de una estancia con fondo neutro.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f1ea" />
+      <stop offset="100%" stop-color="#e7ddd1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)" />
+  <rect x="130" y="430" width="940" height="190" rx="26" fill="#ffffff" opacity="0.88" />
+  <rect x="210" y="310" width="540" height="190" rx="22" fill="#d46b4d" />
+  <rect x="790" y="250" width="160" height="280" rx="18" fill="#fff8ef" />
+  <circle cx="900" cy="330" r="42" fill="#f0d58a" />
+  <path d="M170 540c110-130 230-200 360-200 128 0 251 51 370 151 47 39 104 49 170 49v80H170Z" fill="#698564" />
+  <text x="170" y="700" fill="#4b3b34" font-family="Verdana, sans-serif" font-size="44" font-weight="700">Airbnb Clone Placeholder</text>
+</svg>
